@@ -46,7 +46,10 @@ list-style: none;
     position: absolute;
     top:20px;
   }
-
+  .banner-button a{
+    text-decoration: none;
+    color: #FAFAFB;
+  }
   .banner-text{
     font-size: 48px;
     color: black;
@@ -68,11 +71,244 @@ list-style: none;
     bottom: 45px;
     margin-top: 0; 
   }
+  .promise a{
+    text-decoration: none;
+  }
   .banner-paragraph{
     font-size: 16;
     color: #0D1321;
     position: absolute;
     margin-top: 250px;
-
+  }
+  .section-title{
+    text-align: center;
+    font-size: 32px;
+    padding-top: 80px;
+  }
+  .why{
+    background-color: #FAFAFB;
+    margin-left: 292px;
+    margin-top: 80px;
+    margin-right: 294px;
+  }
+  .section-description{
+    text-align: center;
+    margin-left: 144px;
+    margin-right: 144px;
+    margin-bottom: 48px;
 
   }
+  .one{
+    margin-left: 900px;
+    background-color: white;
+    margin-bottom: 20px;
+
+  }
+  
+
+  .promise2{
+    margin-bottom: -200px;
+    margin-left: 97px;
+  }
+
+  .promise-title1{
+    font-size: 24px;
+    text-align: left;
+    max-inline-size: 20ch;
+    padding-right: 87px;
+    margin-left: 150px;
+    margin-top: -250px;
+  }
+  .promise-description1{
+    font-size: 16px;
+    margin-top: 16px;
+    margin-left: 150px;  
+    max-inline-size: 40ch;
+
+  }
+  .learn1{
+    margin-left: 150px;
+    padding: 12px 20px 12px 20px;
+    background-color: #0D1321;
+    color: #fff;
+border-radius: 5px;
+cursor: pointer;  
+  }
+  .learn1 a{
+    text-decoration: none;
+    color:white;
+  }
+.promise-title2{
+  font-size: 24px;
+  text-align: left;
+  max-inline-size: 30ch;
+  padding-right: 87px;
+  margin-left: 300px;
+  margin-top: -200px;
+}
+.promise-description2{
+  font-size: 16px;
+  margin-top: 16px;
+  margin-left: 300px;
+  max-inline-size: 40ch;  
+  
+
+}
+.learn2{
+  margin-left: 45px;
+  margin-top: 1px;
+  padding: 12px 20px 12px 20px;
+  background-color: #0D1321;
+    color: #fff;
+border-radius: 5px;
+cursor: pointer;  
+}
+
+.learn2 a{
+  text-decoration: none;
+  color:white;
+}
+
+.three{
+  margin-left: 900px;
+  background-color: white;
+  margin-top: 200px;
+
+}
+.promise-title3{
+  font-size: 24px;
+  text-align: left;
+  max-inline-size: 30ch;
+  padding-right: 87px;
+  margin-left: 140px;
+  margin-top: -200px;
+}
+.promise-description3{
+  font-size: 16px;
+  margin-top: 16px;
+  margin-left: 140px;
+  max-inline-size: 40ch;  
+}
+.learn3{
+  margin-left: 130px;
+  margin-top: 1px;
+  padding: 12px 20px 12px 20px;
+  background-color: #0D1321;
+  color: #fff;
+border-radius: 5px;
+cursor: pointer; 
+}
+.learn3 a{
+  text-decoration: none;
+  color: white;
+}
+
+.inspiration{
+  background-color: #FAFAFB;
+  margin-left: 292px;
+  margin-top: 80px;
+  margin-right: 294px;
+}
+.inspiration-title{
+  text-align: center;
+}
+.inspiration-description{
+  text-align: center;
+}
+.iframe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.embade{
+  width: 80%; 
+  max-width: 2300px;
+  height: 60vh; 
+  max-height: 800px;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+skills{
+  background-color: #FAFAFB;
+  margin-left: 292px;
+  margin-top: 80px;
+  margin-right: 294px;
+}
+
+.text-4{
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 48px;
+  max-inline-size: 160ch;
+}
+/* Skills-section styles */
+.skill-container{
+  background-color: #FAFAFB;
+  margin-left: 292px;
+  margin-top: 80px;
+  margin-right: 294px;
+  display: flex;
+}
+.text-4{
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 48px;
+
+}
+.skill1{
+  background-color: rgba(255, 76, 30, 0.05);
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    margin-right: 20px;
+
+}
+.skill2{
+  background-color: rgba(0, 76, 232, 0.05);
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  margin-right: 20px;
+
+}
+.skill3{
+  background-color: rgba(255, 223, 0, 0.05);
+  padding: 30px;
+  border-radius: 5px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+.s1 {
+  text-decoration: none;
+}
+.s2{
+  text-decoration: none;
+}
+.s3{
+  text-decoration: none;
+}
+.skill-title{
+  text-align: left;
+}
+.skill-description{
+  text-align: left;
+}
+
+.poster {
+  background-image: url(../assets/handshake.jpg);
+  background-size: 200*300;
+  background-position: center;
+  color: white; 
+  padding: 50px;
+  text-align: center; 
+  margin-left: 295px;
+  margin-top: 100px;
+  margin-right: 285px;
+  border-radius: 10px;
+}
+.buta{
+  margin-left: 250px
+}
